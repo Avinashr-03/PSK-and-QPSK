@@ -1,14 +1,4 @@
-# PSK
-# Aim
-Write a simple Python program for the modulation and demodulation of PSK and QPSK.
-# Tools required
-# Program
-```
-Attach the program
-```
-# Output Waveform
-```
-Attach the output waveform# PSK and QPSK
+# PSK and QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
@@ -85,13 +75,6 @@ plt.show()
 
 <img width="1389" height="1589" alt="image" src="https://github.com/user-attachments/assets/68abde5e-df0f-4a15-90df-13859853025e" />
 
-# Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
-
-```
 # Results
 ```
 Attach the output waveform
